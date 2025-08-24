@@ -1,8 +1,8 @@
-# DracoPanel  
+# AG Panel  
 
-**DracoPanel** is an open-source, modern game server and application management panel built with **Node.js, Docker, and Express**. It is designed to work seamlessly with the **DracoDaemon** backend.  
+**AG Panel** is an open-source, modern game server and application management panel built with **Node.js, Docker, and Express**. It is designed to work seamlessly with the **AG Daemon** backend.  
 
-![GitHub](https://img.shields.io/badge/license-MIT-blue) ![Node.js](https://img.shields.io/badge/Node.js-v20%2B-green) ![Status](https://img.shields.io/badge/status-active-brightgreen)  
+
 
 ## Features  
 - **Game Server Management** - Easily deploy and control game servers  
@@ -37,14 +37,14 @@ apt-get install nodejs -y
 
 ### Installation Panel
 
-To install and start the Draco Panel , run the following commands:
+To install and start the AG  Panel , run the following commands:
 
 ```bash
 git clone https://github.com/dragonlabsdev/panel-v1.0.0.git && cd panel-v1.0.0 && npm install && npm run seed && npm run createUser && node .
 ```
 
 ## Credits  
-- **Developed by**: hopingboyz
+- **Developed by**: Aru1234rgb
 - **made by**: hopingboyz   
-- **Powered by**: WEBLAB  
-- **Special Thanks**: SRYDEN
+- **Powered by**:  hopingboyz
+- **Special Thanks**: hopingboyz
