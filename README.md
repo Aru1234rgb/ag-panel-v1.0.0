@@ -46,5 +46,5 @@ git clone https://github.com/dragonlabsdev/panel-v1.0.0.git && cd panel-v1.0.0 &
 ## Credits  
 - **Developed by**: Aru1234rgb
 - **made by**: hopingboyz   
-- **Powered by**:  hopingboyz
+- **Powered by**: Aru1234rgb
 - **Special Thanks**: hopingboyz
