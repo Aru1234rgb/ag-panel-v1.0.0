@@ -40,7 +40,7 @@ apt-get install nodejs -y
 To install and start the AG  Panel , run the following commands:
 
 ```bash
-git clone https://github.com/dragonlabsdev/panel-v1.0.0.git && cd panel-v1.0.0 && npm install && npm run seed && npm run createUser && node .
+git clone https://github.com/Aru1234rgb/ag-panel-v1.0.0.git && cd panel-v1.0.0 && npm install && npm run seed && npm run createUser && node .
 ```
 
 ## Credits  
